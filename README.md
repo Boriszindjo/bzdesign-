@@ -67,7 +67,7 @@
 <div class="container">
     <section id="about" class="section">
         <h2>À propos de moi</h2>
-        <p>Je suis [Ton Nom], un graphiste passionné avec une spécialisation dans la création de couvertures de livres, de logos signature et de visuels 3D basés sur les couvertures de livres. Avec plusieurs années d'expérience, je m'engage à fournir des designs professionnels et captivants pour aider à donner vie à vos projets.</p>
+        <p>Je suis boris zindjo, un graphiste passionné avec une spécialisation dans la création de couvertures de livres, de logos signature et de visuels 3D basés sur les couvertures de livres. Avec 5ans années d'expérience, je m'engage à fournir des designs professionnels et captivants pour aider à donner vie à vos projets.</p>
     </section>
 
     <section id="skills" class="section">
